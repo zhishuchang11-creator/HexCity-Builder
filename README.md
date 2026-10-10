@@ -1,16 +1,16 @@
 # HexCity Builder
-A hex‑grid city simulation game built in Python for Hack Club Terra.
+A cute and colourful hex‑grid city simulation game built in Python for Hack Club Terra.
 
 Description
-HexCity Builder is a city simulation game that uses a hexagonal grid instead of a square one. Each hex tile can be zoned, simulated, and visualized. The project includes terrain generation, zoning, population simulation, economy, traffic, and utility systems. It is designed to be modular, open‑source, and easy to expand.
+HexCity Builder is a city simulation game where every tile is a hex. You can generate terrain, place zones, simulate population, manage an economy, and visualize traffic and utilities. The project is designed to be friendly, colourful, and easy to expand.
 
 Features
 
-Hex‑grid world engine
+Cute and colourful hex‑grid world
 
 Procedural terrain generation
 
-Zoning system (residential, commercial, industrial, utilities)
+Zoning (residential, commercial, industrial, utilities)
 
 Population simulation
 
@@ -20,9 +20,9 @@ Traffic simulation
 
 Utility networks
 
-Data overlays
+Visual overlays
 
-Custom visual assets
+Custom pixel‑style assets
 
 Modular code structure
 
@@ -50,7 +50,7 @@ Phase 3: Traffic, utilities, overlays
 Phase 4: UI, assets, save/load, polish
 
 Credits
-Created by Zhi‑Shu for Hack Club Terra.
+Created by Zhi-Shu for Hack Club Terra.
 
 License
 MIT License
